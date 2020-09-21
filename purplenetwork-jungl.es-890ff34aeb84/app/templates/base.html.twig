@@ -17,25 +17,37 @@
 
 	<meta property="og:url" content="{{ url('index_site')|replace({'http://': 'https://'}) }}" />
 	<meta property="og:type" content="website" />
-	<meta property="og:title" content="Jungles" />
+	{% block og_meta %}
+	<meta property="og:title" content="{% trans %}meta.title{% endtrans %}" />
+	<meta property="og:description"
+		  content="{% trans %}meta.description{% endtrans %}" />
+	{% endblock %}
 	<meta property="og:site_name" content="Jungles" />
 	<meta property="og:image"
 		content="{{ absolute_url('static/images/share.png')|replace({'http://': 'https://'}) }}" />
 	<meta property="og:image:secure_url"
 		content="{{ absolute_url('static/images/share.png')|replace({'http://': 'https://'}) }}" />
-	<meta property="og:description"
-		content="Turning interactions into eXperience. Supportiamo i brand nello studio, definizione e sviluppo di esperienze di valore per le persone. #CX #UX #UI and more" />
+
 
 	<meta name="twitter:card" content="summary_large_image" />
 	<meta name="twitter:site" content="{{ url('index_site')|replace({'http://': 'https://'}) }}" />
 	<meta name="twitter:creator" content="Jungles" />
-	<meta name="twitter:title" content="Jungles" />
+	{% block tw_meta %}
+	<meta name="twitter:title" content="{% trans %}meta.title{% endtrans %}" />
 	<meta name="twitter:description"
-		content="Turning interactions into eXperience. Supportiamo i brand nello studio, definizione e sviluppo di esperienze di valore per le persone. #CX #UX #UI and more" />
+		content="{% trans %}meta.description{% endtrans %}" />
+	{% endblock %}
 	<meta name="twitter:image"
 		content="{{ absolute_url('static/images/share.png')|replace({'http://': 'https://'}) }}" />
 	<!-- Google Tag Manager -->
 	<script>
+		var errMsgNameMandatory = "{% trans %}sections.contact.form.errors.name_mandatory{% endtrans %}";
+		var errMsgEmailMandatory = "{% trans %}sections.contact.form.errors.email_mandatory{% endtrans %}";
+		var errMsgEmailNotValid = "{% trans %}sections.contact.form.errors.email_invalid{% endtrans %}";
+		var errMsgPhoneMandatory = "{% trans %}sections.contact.form.errors.phone_mandatory{% endtrans %}";
+		var errMsgPhoneNotValid = "{% trans %}sections.contact.form.errors.phone_invalid{% endtrans %}";
+		var errMsgMessageMandatory = "{% trans %}sections.contact.form.errors.message_mandatory{% endtrans %}";
+		var errMsgPrivacyMandatory = "{% trans %}sections.contact.form.errors.privacy_mandatory{% endtrans %}";
 		(function (w, d, s, l, i) {
 			w[l] = w[l] || [];
 			w[l].push({

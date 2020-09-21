@@ -1,5 +1,17 @@
 {% extends 'base.html.twig' %}
 
+{% block og_meta %}
+	<meta property="og:title" content="{% trans %}page.privacy.meta.title{% endtrans %}" />
+	<meta property="og:description"
+		  content="{% trans %}page.privacy.meta.description{% endtrans %}" />
+{% endblock %}
+
+{% block tw_meta %}
+	<meta name="twitter:title" content="{% trans %}page.privacy.meta.title{% endtrans %}" />
+	<meta name="twitter:description"
+		  content="{% trans %}page.privacy.meta.description{% endtrans %}" />
+{% endblock %}
+
 {% block content %}
 	<main class="main js-app" data-route="editorial">
 		<header class="header js-header">
@@ -10,13 +22,13 @@
 			<nav class="editorial__nav js-tab">
 				<ul class="editorial__nav__list">
 					<li class="editorial__nav__item is-active">
-						<a href="#sito-web" class="editorial__nav__label">SITO WEB</a>
+						<a href="#sito-web" class="editorial__nav__label">{% trans %}page.privacy.nav.website{% endtrans %}</a>
 					</li>
 					<li class="editorial__nav__item">
-						<a href="#clienti" class="editorial__nav__label">CLIENTI</a>
+						<a href="#clienti" class="editorial__nav__label">{% trans %}page.privacy.nav.customers{% endtrans %}</a>
 					</li>
 					<li class="editorial__nav__item">
-						<a href="#fornitori" class="editorial__nav__label">FORNITORI</a>
+						<a href="#fornitori" class="editorial__nav__label">{% trans %}page.privacy.nav.suppliers{% endtrans %}</a>
 					</li>
 				</ul>
 			</nav>

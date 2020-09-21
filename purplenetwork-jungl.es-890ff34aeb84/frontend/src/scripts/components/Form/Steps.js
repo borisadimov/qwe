@@ -6,7 +6,7 @@ export default class Steps {
         type: 'text',
         check: () => app.validator.checkName(),
         errors: {
-          required: 'Il campo nome è un campo obbligatorio'
+          required: errMsgNameMandatory
         }
       },
       {
@@ -14,8 +14,8 @@ export default class Steps {
         type: 'email',
         check: () => app.validator.checkEmail(),
         errors: {
-          required: 'Il campo email è un campo obbligatorio',
-          invalid: 'Inserisci un indirizzo email valido'
+          required: errMsgEmailMandatory,
+          invalid: errMsgEmailNotValid
         }
       },
       {
@@ -23,8 +23,8 @@ export default class Steps {
         type: 'tel',
         check: () => app.validator.checkPhone(),
         errors: {
-          required: 'Il campo telefono è un campo obbligatorio',
-          invalid: 'Inserisci un numero di telefono valido'
+          required: errMsgPhoneMandatory,
+          invalid: errMsgPhoneNotValid
         }
       },
       {
@@ -32,7 +32,7 @@ export default class Steps {
         type: 'textarea',
         check: () => app.validator.checkMessage(),
         errors: {
-          required: 'Il campo messaggio è un campo obbligatorio'
+          required: errMsgMessageMandatory
         }
       },
       {
@@ -40,7 +40,7 @@ export default class Steps {
         type: 'checkbox',
         check: () => app.validator.checkLastStep(),
         errors: {
-          required: 'Il campo privacy è un campo obbligatorio'
+          required: errMsgPrivacyMandatory
         }
       }
     ]
