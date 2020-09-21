@@ -1,0 +1,327 @@
+meta:
+    title: Digital strategy and User eXperience Agency | Jungles
+    description: "Jungles supports brands to study, define and develop a consistent digital connection strategy to transform interactions into experience and users into customers"
+page:
+    privacy:
+        meta:
+            title: Our Privacy policy | Jungles
+            description: "Jungles always protect personal data in compliance with the GDPR regulation."
+        nav:
+            website: WEBSITE
+            customers: CLIENTS
+            suppliers: SUPPLIERS
+        website:
+            title: PRIVACY & COOKIE POLICY “JUNGL.ES” PURSUANT TO ART. 13 “GDPR” - EU REG. NO. 2016/679
+            1:
+                title: Why this Privacy Policy
+                text: Your Personal Data will be processed, through the website www.jungl.es (the “Website”) with respect to the applicable law and to the confidentiality and security obligations that inspire the business activity of its owner. In this document we submit the necessary information in order to understand what data we process and why.
+            2:
+                title: Data Controller
+                text: "The Data Controller is JUNGLES S.r.l., VAT no. 10065560962, with registered office at 20122 Milan (MI), via Cesare Battisti n. 23, that can be contacted at the following addresses:"
+                dot1: by sending an e-mail to info@jungl.es
+                dot2: "by telephone call at: +39 02 82 777 066"
+                dot3: by ordinary mail at the registered office’s address
+            3:
+                title: Categories of data processed
+                text: "Personal data will be processed whenever you access the Website or use the contact form (for example: IP address, device and browser’s info and IDs, name and surname, contacts data)."
+            4:
+                title: Purposes, legal basis and retention periods
+                tab1:
+                    title: PURPOSE
+                    text1: Perform the technical operations instrumental to allow the navigation of the Website and the use of its functionalities
+                    text2: Allow the Data Controller to communicate with the User, in case of requests submitted throught Website’s functionalities or by e-mail and/or other communication instruments
+                tab2:
+                    title: LEGAL BASIS
+                    text1: Processing is necessary to exercise the legitimate interest of the Data Controller for maintenance and optimization of the Website
+                    text2: Processing is performed based on User’s consent
+                tab3:
+                    title: RETENTION PERIOD
+                    text1: For the period necessary to guarantee the technological communication of your device with the server
+                    text2: Up to the termination of the communication activities to/from the User
+                text: The initiation or possibility of a dispute with one or more Users or with third parties may justify, for each of the above-mentioned purposes, the extension of the data retention periods until the end of the necessities.
+            5:
+                title: Methods for data processing
+                text: We will respect the principles of correctness, lawfulness and transparency, protecting the privacy and rights of the Data Subjects and will use suitable tools to guarantee the security of personal data. We will process data related to Data Subjects by manual, technological and communication means, based on logics strictly related to the mentioned purposes.
+            6:
+                title: Consequences of not submitting your data
+                text: "Processing of the personal data described above is necessary to correctly offer the functionalities provided by the Website: not submitting such data implies the impossibility to access, in full or in part, the Website (e.g. not indicating your e-mail address in the contact form will not allow to send the communication, since we would not have the ability to answer you)."
+            7:
+                title: Categories of recipients to whom personal data might be disclosed or communicated, scope of dissemination of personal data
+                text1:
+                    text: "With respect to the obligations, activities and purposes stated above:"
+                    dot1: personal data will be processed exclusively by employees and / or collaborators of the Data Controller, also through third parties appointed as Data Processors (e.g. business consultants or external companies in charge of order management and administrative accounting control, management of the quality system and related activities), in compliance with the provisions of the law also with regard to security measures to protect and safeguard the data;
+                    dot2: personal data will not be disseminated, except based on data subject’s consent.
+                text2: The list of Data Processors can be requested to the Data Controller.
+                text3:
+                    text: "We may communicate and disseminate personal data for the sole purpose of executing legal obligations:"
+                    dot1: public and private entities, also following inspections or verifications (for example Financial Administration, Tax Police Bodies, Judicial Authorities, Social Security Entities);
+                    dot2: subjects who can access the data under the provisions of law.
+            8:
+                title: International transfer of data
+                text: Some of your data may be transferred to third countries, in particular also outside of the European Union, based on adequacy decisions of the third country or standard contractual clauses related to data protection as adopted by the European Commission, in order to guarantee effective protection to the rights of the Data Subject. These transfers to third countries will be limited to what is necessary due to the adopted technological solutions.
+            9:
+                title: Your rights as data subject
+                text1:
+                    text: "The Data Subject may, at any moment, exercise the rights provided by the EU Reg. 2016/679. In particular, the right to:"
+                    dot1: access to his/her personal data;
+                    dot2: to obtain the rectification or cancellation of the same or the limitation of the processing that concerns him;
+                    dot3: to oppose to the processing activities;
+                    dot4: to the portability of his/her data;
+                    dot5: "to revoke the consent, if allowed: the revocation of the consent does not affect the lawfulness of the processing activities based on the consent given before the revocation;"
+                    dot6: to lodge a complaint with the supervisory authority. For Italy, the supervisory authority is the Autorità Garante for the protection of personal data.
+                text2: The exercise of the aforementioned rights can take place by sending a request by e-mail to info@jungl.es.
+            10:
+                title: Cookies
+                text1: This Website uses cookies, which are text files that are installed on your computer to improve the functionality of the Website and to simplify navigation by automating some procedures.
+                text2: "By using this Website, you tolerate the installation of technical and session cookies on your device: they are not instrumental to the collection of personal data to identify you and last only for the current session, i.e. until the browser is closed. Their use does not require your prior consent."
+                text3: To create all the pages of the Website, we use the PHP programming language. The PHPSESSID cookie is required for the PHP code to function properly.
+                text4: This cookie is used to direct the connection to the correct server. It does not contain personal data.
+                text5: The Website also uses anonymized analytical cookies provided by Google Ireland Ltd. and called "Google Analytics".<br/>Google uses the personal data collected for the purpose of tracking and examining the use of Jungles domains, compiling reports and sharing them with other services developed by Google. Google may use personal data to contextualize and personalize the advertisements of its own advertising network.<br>The Google Analytics services on the Jungles’ Website have been configured to anonymize the IP address of visitors. Anonymization works by shortening the IP address of users within the borders of the member states of the European Union or in other countries adhering to the agreement on the European Economic Area. Only in exceptional cases, the IP address will be sent to Google's servers and shortened within the United States.<br> The personal data collected are usage data and information collected through cookies, while the place of processing is in the United States of America. To examine Google’s information to Data Subject, relating to the Google Analytics service, please visit Google’s website. To find out about Google's privacy policies, please visit the Google website, in the related section.
+            11:
+                title: How to disable cookies
+                text1:
+                    text: "You can deny consent to the use of cookies by selecting the appropriate settings in your browser: navigation of the Website will still be available, but there may be technical errors. Herebelow you can find the links that explain how to disable cookies for the most popular browsers (for other browsers that may be used I suggest you look for this option in the help of your software normally available through the F1 key):"
+                    dot1: <a href="http://windows.microsoft.com/it-IT/windows7/Block-enable-or-allow-cookies">Internet Explorer</a>
+                    dot2: <a href="https://support.google.com/chrome/answer/95647?hl=it-IT&#038;p=cpn_cookies">Google Chrome</a>
+                    dot3: <a href="https://support.mozilla.org/it/kb/Bloccare%20i%20cookie?redirectlocale=en-US&#038;redirectslug=Blocking+cookies">Mozilla Firefox</a>
+                    dot4: <a href="http://www.apple.com/legal/privacy/it/cookies/">Apple Safari</a>
+                text2: To disable Google Analytics’ cookies it is also possible to download this tool provided directly by Google.
+        customers:
+            title: PERSONAL DATA PRIVACY NOTICE FOR “CLIENTS” PURSUANT TO ART. 13 “GDPR” - EU REG. NO. 2016/679
+            1:
+                title: Introduction
+                text: Personal Data shall be processed with respect to the applicable law and to the confidentiality and security obligations that inspire the business activity of Jungles S.r.l.
+            2:
+                title: Data Controller
+                text1:
+                    text: "The Data Controller is JUNGLES S.r.l., VAT no. 10065560962, with registered office at 20122 Milan (MI), via Cesare Battisti n. 23, that can be contacted at the following addresses:"
+                    dot1: by sending an e-mail to info@jungl.es
+                    dot2: "by telephone call at: +39 02 82 777 066"
+                    dot3: by ordinary mail at the registered office’s address
+            3:
+                title: Categories of data processed
+                text1:
+                    text: "The processed categories of personal data are:"
+                    dot1: personal identification data (name, surname, e-mail and/or direct telephone number) of the Client natural person;
+                    dot2: personal identification data (name, surname, company position, e-mail and/or direct telephone number) of the employees of the Client legal entity, that shall be indicated by the Client itself in order to perform the business activity of delivering the services and management of the order.
+            4:
+                title: Purposes, legal basis and retention periods
+                tab1:
+                    title: PURPOSES
+                    text1: Execution of the operations necessary in order to process the preliminary information related to the conclusion of the contract
+                    text2: Execution of a Contract and related operations imposed by applicable law during the subscription process
+                    text3: Management of the relationship with Client and administration, orders, billing and eventual disputes
+                    text4: Document conservation as required by the current applicable law
+                tab2:
+                    title: LEGAL BASIS
+                    text1: Processing is necessary for the performance of a contract or in order to take steps prior to entering it.
+                    text2: Processing is necessary to comply with a legal obligation
+                    text3: Processing is necessary to comply with a legal obligation
+                    text4: Processing is necessary to comply with a legal obligation
+                tab3:
+                    title: RETENTION PERIOD
+                    text1: 10 years from the conclusion of the contract, as established by art. 2220 of the Italian Civil Code, save for delayed payments and/or disputes that justify a longer retention period
+                    text2: 10 years from the conclusion of the contract, as established by art. 2220 of the Italian Civil Code, save for delayed payments and/or disputes that justify a longer retention period
+                    text3: 10 years from the conclusion of the contract, as established by art. 2220 of the Italian Civil Code, save for delayed payments and/or disputes that justify a longer retention period
+                    text4: 10 years from the conclusion of the contract, as established by art. 2220 of the Italian Civil Code, save for delayed payments and/or disputes that justify a longer retention period
+                text: The initiation or possibility of a dispute with one or more Users or with third parties may justify, for each of the above-mentioned purposes, the extension of the data retention periods until the end of the necessities.
+            5:
+                title: Methods for data processing
+                text: The processing of personal data will be based on principles of correctness, lawfulness and transparency, protecting your privacy and your rights and will take place using suitable tools to guarantee their security.
+            6:
+                title: Consequences of not submitting your data
+                text: Processing of the personal data described above is necessary to execute the indicated purposes, therefore not submitting such data implies the impossibility to perform the processing.
+            7:
+                title: Categories of recipients to whom personal data might be disclosed or communicated, scope of dissemination of personal data
+                text1:
+                    text: "With respect to the obligations, activities and purposes stated above:"
+                    dot1: personal data will be processed exclusively by employees and / or collaborators of the Data Controller, also through third parties appointed as Data Processors (e.g. business consultants or external companies in charge of order management and administrative accounting control, management of the quality system and related activities), in compliance with the provisions of the law also with regard to security measures to protect and safeguard the data;
+                    dot2: personal data will not be disseminated, except based on data subject’s consent.
+                text2: The list of Data Processors can be requested to the Data Controller.
+                text3:
+                    text: "The Data Controller may communicate and disseminate personal data for the sole purpose of executing legal obligations. Personal data may be disclosed in Italy and/or abroad to:"
+                    dot1: public and private entities, also following inspections or verifications (for example Financial Administration, Tax Police Bodies, Judicial Authorities, Social Security Entities);
+                    dot2: subjects who can access the data under the provisions of law.
+            8:
+                title: Your rights as data subject
+                text1:
+                    text: "The Data Subject may, at any moment, exercise the rights provided by the EU Reg. 2016/679. In particular, the right to:"
+                    dot1: access to his/her personal data;
+                    dot2: to obtain the rectification or cancellation of the same or the limitation of the processing that concerns him;
+                    dot3: to oppose to the processing activities;
+                    dot4: to the portability of his/her data;
+                    dot5: "to revoke the consent, if allowed: the revocation of the consent does not affect the lawfulness of the processing activities based on the consent given before the revocation;"
+                    dot6: to lodge a complaint with the supervisory authority. For Italy, the supervisory authority is the Autorità Garante for the protection of personal data.
+                text2: The exercise of the aforementioned rights can take place by sending a request by e-mail to info@jungl.es.
+            9:
+                title: Availability of this Notice
+                text: This Notice is given to the Client, that shall manage to forward it before any processing (and/or in a timely manner) to all the interested Data Subjects, in order to inform them of the processing and related modalities.
+        suppliers:
+            title: PERSONAL DATA PRIVACY NOTICE FOR “SUPPLIERS” PURSUANT TO ART. 13 “GDPR” - EU REG. NO. 2016/679
+            1:
+                title: Introduction
+                text: Personal Data shall be processed with respect to the applicable law and to the confidentiality and security obligations that inspire the business activity of Jungles S.r.l.
+            2:
+                title: Data Controller
+                text1:
+                    text: "The Data Controller is JUNGLES S.r.l., VAT no. 10065560962, with registered office at 20122 Milan (MI), via Cesare Battisti n. 23, that can be contacted at the following addresses:"
+                    dot1: by sending an e-mail to info@jungl.es
+                    dot2: "by telephone call at: +39 02 82 777 066"
+                    dot3: by ordinary mail at the registered office’s address.
+            3:
+                title: Categories of data processed
+                text1:
+                    text: "The processed categories of personal data are:"
+                    dot1: personal identification data (name, surname, e-mail and/or direct telephone number) of the Supplier natural person;
+                    dot2: personal identification data (name, surname, company position, e-mail and/or direct telephone number) of the employees of the Supplier legal entity, that shall be indicated by the Supplier itself in order to perform the business activity of delivering the services and management of the order.
+            4:
+                title: Purposes, legal basis and retention periods
+                tab1:
+                    title: PURPOSE
+                    text1: Execution of the operations necessary in order to process the preliminary information related to the conclusion of the contract
+                    text2: Execution of the operations imposed by applicable law during the subscription process of the contract
+                    text3: Management of the relationship with Supplier and administration, orders, billing and eventual disputes
+                    text4: Document conservation as required by the current applicable law
+                tab2:
+                    title: LEGAL BASIS
+                    text1: Processing is necessary for the performance of a contract or in order to take steps prior to entering it.
+                    text2: Processing is necessary to comply with a legal obligation
+                    text3: Processing is necessary for the performance of a contract or in order to take steps prior to entering it.
+                    text4: Processing is necessary to comply with a legal obligation
+                tab3:
+                    title: RETENTION PERIOD
+                    text1: 10 years from the conclusion of the contract, as established by art. 2220 of the Italian Civil Code, save for delayed payments and/or disputes that justify a longer retention period
+                    text2: 10 years from the conclusion of the contract, as established by art. 2220 of the Italian Civil Code, save for delayed payments and/or disputes that justify a longer retention period
+                    text3: 10 years from the conclusion of the contract, as established by art. 2220 of the Italian Civil Code, save for delayed payments and/or disputes that justify a longer retention period
+                    text4: 10 years from the conclusion of the contract, as established by art. 2220 of the Italian Civil Code, save for delayed payments and/or disputes that justify a longer retention period
+                text: The initiation or possibility of a dispute with one or more Users or with third parties may justify, for each of the above-mentioned purposes, the extension of the data retention periods until the end of the necessities.
+            5:
+                title: Methods for data processing
+                text: The processing of personal data will be based on principles of correctness, lawfulness and transparency, protecting your privacy and your rights and will take place using suitable tools to guarantee their security.
+            6:
+                title: Consequences of not submitting your data
+                text: Processing of the personal data described above is necessary to execute the indicated purposes, therefore not submitting such data implies the impossibility to perform the processing.
+            7:
+                title: Categories of recipients to whom personal data might be disclosed or communicated, scope of dissemination of personal data
+                text1:
+                    text: "With respect to the obligations, activities and purposes stated above:"
+                    dot1: personal data will be processed exclusively by employees and / or collaborators of the Data Controller, also through third parties appointed as Data Processors (e.g. business consultants or external companies in charge of order management and administrative accounting control, management of the quality system and related activities), in compliance with the provisions of the law also with regard to security measures to protect and safeguard the data;
+                    dot2: personal data will not be disseminated, except based on data subject’s consent.
+                text2: The list of Data Processors can be requested to the Data Controller.
+                text3:
+                    text: "The Data Controller may communicate and disseminate personal data for the sole purpose of executing legal obligations. Personal data may be disclosed in Italy and/or abroad to:"
+                    dot1: public and private entities, also following inspections or verifications (for example Financial Administration, Tax Police Bodies, Judicial Authorities, Social Security Entities);
+                    dot2: subjects who can access the data under the provisions of law.
+            8:
+                title: Your rights as data subject
+                text1:
+                    text: "The Data Subject may, at any moment, exercise the rights provided by the EU Reg. 2016/679. In particular, the right to:"
+                    dot1: access to his/her personal data;
+                    dot2: to obtain the rectification or cancellation of the same or the limitation of the processing that concerns him;
+                    dot3: to oppose to the processing activities;
+                    dot4: to the portability of his/her data;
+                    dot5: "to revoke the consent, if allowed: the revocation of the consent does not affect the lawfulness of the processing activities based on the consent given before the revocation;"
+                    dot6: to lodge a complaint with the supervisory authority. For Italy, the supervisory authority is the Autorità Garante for the protection of personal data.
+                text2: The exercise of the aforementioned rights can take place by sending a request by e-mail to info@jungl.es.
+            9:
+                title: Availability of this Notice
+                text: This Notice is given to the Supplier, that shall manage to forward it before any processing (and/or in a timely manner) to all the interested Data Subjects, in order to inform them of the processing and related modalities.
+
+sections:
+    study:
+        description: We analyze available  data, market's profile<br />
+            and people's need to re-define business<br />
+            challenges and opportunities.
+        description_blob: "Tools:<br />
+        - Competitor Analysis & Benchmark<br />
+        - User Journey & Consumer Insight<br />
+        - UX Research<br />
+        - Interviews & surveys"
+        description_blob_mobile: "We analyze available data, market's<br />
+            profile and people's need to re-define<br />
+            business challenges and opportunities.
+            <br /><br />
+            <u>Tools:</u><br />
+            - Competitor Analysis & Benchmark<br />
+            - User Journey & Consumer Insight<br />
+            - UX Research<br />
+            - Interviews & surveys"
+    think:
+        description: "We define connection strategies to craft<br />
+            experiences in order to establish a good<br />
+            relationship between people and brands."
+        description_blob: "Tools:<br />
+            - 5C strategic analysis<br />
+            - Connection planning<br />
+            - Project Strategy<br />
+            - Open Innovation<br />"
+        description_blob_mobile: "We define connection strategies to craft<br />
+            experiences in order to establish a good<br />
+            relationship between people and brands.
+            <br /><br />
+            <u>Tools:</u><br />
+            - 5C strategic analysis<br />
+            - Connection planning<br />
+            - Project Strategy<br />
+            - Open Innovation"
+    move:
+        description: Starting from the developed strategy,<br />
+            we implement working prototypes to confirm the<br />
+            hypotheses and improve the experience.
+        description_blob: "Tools:<br />
+            - Prototypation<br />
+            - User Test<br />
+            - Performance Monitoring<br />
+            - A/B testing<br />"
+        description_blob_mobile: "Starting from the developed strategy,<br />
+            we implement working prototypes to<br />
+            confirm the hypotheses and improve the experience.
+            <br /><br />
+            <u>Tools:</u><br />
+            - Prototypation<br />
+            - User Test<br />
+            - Performance Monitoring<br />
+            - A/B testing"
+    connect:
+        description: Once the process is validated, we develop the<br />
+            best solution to connect people and brands<br />
+            through concrete experiences of value.
+        description_blob: "Tools:<br />
+            - Production & code development<br />
+            - UX/UI Implementation<br />
+            - Quality assurance supervision<br />
+            - KPI monitoring<br />"
+        description_blob_mobile: "Once the process is validated,<br />
+            we develop the best solution<br />
+            to connect people and brands through<br />
+            concrete experiences of value.
+            <br /><br />
+            <u>Tools:</u><br />
+            - Production & code development<br />
+            - UX/UI Implementation<br />
+            - Quality assurance supervision<br />
+            - KPI monitoring"
+    contact:
+        form:
+            paragraph: We have the gift of ubiquity, but if you are looking for our offices they are in via Spartaco 11, 20135 Milan.<br>
+                <strong>Keep in touch if you need any information.</strong>
+            name: Your name?
+            email: Your email?
+            phone: Your phone number?
+            message: Your message?
+            captcha_text: I consent to the processing of my data, pursuant to the <a href="/en/privacy-policy" target="_blank">privacy notice</a>
+            button_send: SEND
+            result:
+                title: Message successfully sent.
+                paragraph: We will get back to you as soon as possible.
+            advice:
+                title: Do you want to work with us?
+                text: Send us your application to
+            errors:
+                name_mandatory: The name field is mandatory
+                email_mandatory: The email address is mandatory
+                email_invalid: Enter a valid email address
+                phone_mandatory: The phone number field is mandatory
+                phone_invalid: Enter a valid phone number
+                message_mandatory: The message field is mandatory
+                privacy_mandatory: The privacy field is mandatory
