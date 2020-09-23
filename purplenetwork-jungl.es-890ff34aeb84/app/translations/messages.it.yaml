@@ -324,3 +324,6 @@ sections:
                 phone_invalid: Inserisci un numero di telefono valido
                 message_mandatory: Il campo messaggio è un campo obbligatorio
                 privacy_mandatory: Il campo privacy è un campo obbligatorio
+    footer:
+        lang: <span class="footer__dotafter footer__bold">Italiano (IT)</span> <span class=""><a href="/en">English (US)</a></span>
+            

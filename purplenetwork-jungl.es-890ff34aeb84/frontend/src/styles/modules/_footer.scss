@@ -120,6 +120,7 @@
 .footer__dotafter {
   &::after {
     content: ' ・ ';
+    text-decoration: none;
   }
 }
 .footer__spacerafter {
@@ -132,6 +133,7 @@
   svg {
     margin-right: 16px;
   }
+
   margin-bottom: 32px;
   @include breakpoint($breakpoint-tablet) {
     margin-bottom: 0;
@@ -146,5 +148,11 @@
   .footer__underline {
     font-size: 16px;
     text-decoration: underline;
+  }
+  a {
+    color: #000000;
+    &:visited {
+      color: #000000;
+    }
   }
 }

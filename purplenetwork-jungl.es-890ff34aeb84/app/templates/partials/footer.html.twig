@@ -16,7 +16,7 @@ i propri utenti, per trasformare le interazioni in esperienza.</span>
 							</div>
 							<div class="footer__support">
 								<h3>Resources</h3>
-								<a href="/privacy-policy" target="_blank" >Privacy Policy</a>
+								<a href="{{ path('privacy_site') }}" target="_blank" >Privacy Policy</a>
 								<a href="mailto:info@jungles.es">info@jungles.es</a>
 								<a href="tel:021234567">021234567</a>
 							</div>
@@ -40,8 +40,7 @@ i propri utenti, per trasformare le interazioni in esperienza.</span>
                                 </span>
                                 <div class="footer__lang">
                                     {% include 'svg/globe.html.twig' %}
-                                    <span class="footer__dotafter footer_bold">Italiano (IT)</span>
-                                    <span class="footer__underline">English (US)</span>
+                                    {% trans %}sections.footer.lang{% endtrans %}
                                 </div>
 							</div>
 						</div>

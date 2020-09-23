@@ -325,3 +325,5 @@ sections:
                 phone_invalid: Enter a valid phone number
                 message_mandatory: The message field is mandatory
                 privacy_mandatory: The privacy field is mandatory
+    footer:
+        lang: <span class="footer__dotafter"><a href="/it">Italiano (IT)</a></span> <span class="footer__bold">English (US)</span>
