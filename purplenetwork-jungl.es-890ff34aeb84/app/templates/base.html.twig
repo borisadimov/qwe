@@ -12,7 +12,10 @@
 
 	<link rel="icon" type="image/png"
 		href="{{ absolute_url('static/images/favicon.png')|replace({'http://': 'https://'}) }}" />
-
+	<link rel="preload" href="static/fonts/DINCondensed-Bold.woff" as="font" type="font/woff"/>
+	<link rel="preload" href="static/fonts/HKGrotesk-Regular.woff" as="font" type="font/woff"/>
+	<link rel="preload" href="static/fonts/HKGrotesk-SemiBold.woff" as="font" type="font/woff"/>
+	<link rel="preload" href="static/fonts/HKGrotesk-Bold.woff" as="font" type="font/woff"/>
 	<meta name="description" content="" />
 
 	<meta property="og:url" content="{{ url('index_site')|replace({'http://': 'https://'}) }}" />
@@ -64,6 +67,22 @@
 		})(window, document, 'script', 'dataLayer', 'GTM-NVF9LSX');
 	</script>
 	<!-- End Google Tag Manager -->
+	<script type = "application/ld+json">
+	{
+  "@context": "http://schema.org",
+  "@type": "Organization",
+  "url": "https://www.jungl.es/",
+  "logo": "{{ absolute_url('static/images/share.png')|replace({'http://': 'https://'}) }}",
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "Milan, Italy",
+    "postalCode": "20135",
+    "streetAddress": "Via Spartaco, 11"
+  },
+  "email": "info@jungl.es",
+  "name": "Jungles s.r.l."
+}
+</script>
 </head>
 
 <body class="" data-page="{{ app.request.attributes.get('_route') }}" style="opacity: 0">

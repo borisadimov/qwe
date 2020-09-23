@@ -325,5 +325,14 @@ sections:
                 message_mandatory: Il campo messaggio è un campo obbligatorio
                 privacy_mandatory: Il campo privacy è un campo obbligatorio
     footer:
-        lang: <span class="footer__dotafter footer__bold">Italiano (IT)</span> <span class=""><a href="/en">English (US)</a></span>
-            
+        lang: <span class="footer__dotafter"><a href="/it">Italiano (IT)</a></span> <span class="footer__bold">English (US)</span>
+        description: Jungles è specializzata in User Experience Research e Design supportando i brand nello studio, definizione e sviluppo di strategie di connessione digitale verso i propri utenti, per trasformare le interazioni in esperienza.  
+        resources_title: Resources
+        support_title: Support
+        follow_title: Follow US
+        privacy_policy: Privacy Policy
+        support_email: info@jungles.es
+        support_tel: 021234567
+        copyright: Copyright ©2020
+        address: Jungles S.r.l. Via Spartaco 11, 20135 Milano
+        piva: P.IVA 10065560962
