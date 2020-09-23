@@ -3781,10 +3781,10 @@
       /*! no static exports found */
       /***/ function(module, exports, __webpack_require__) {
         __webpack_require__(
-          /*! /Users/flywithme/Developer/jun/purplenetwork-jungl.es-890ff34aeb84/frontend/node_modules/error-overlay-webpack-plugin/lib/entry-basic.js */ "./node_modules/error-overlay-webpack-plugin/lib/entry-basic.js"
+          /*! /Users/jeday/Projects/qwe/purplenetwork-jungl.es-890ff34aeb84/frontend/node_modules/error-overlay-webpack-plugin/lib/entry-basic.js */ "./node_modules/error-overlay-webpack-plugin/lib/entry-basic.js"
         );
         module.exports = __webpack_require__(
-          /*! /Users/flywithme/Developer/jun/purplenetwork-jungl.es-890ff34aeb84/frontend/src/scripts/main.js */ "./src/scripts/main.js"
+          /*! /Users/jeday/Projects/qwe/purplenetwork-jungl.es-890ff34aeb84/frontend/src/scripts/main.js */ "./src/scripts/main.js"
         );
 
         /***/

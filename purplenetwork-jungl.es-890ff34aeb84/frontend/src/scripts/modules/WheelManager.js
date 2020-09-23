@@ -21,7 +21,6 @@ export default class WheelManager {
 
   __manageEvent = e => {
     e.stopPropagation()
-
     switch (this.__getDirection(e)) {
       case 'up':
         if (store.selectedSection.prevSection !== null) {

@@ -1,7 +1,7 @@
 .contact__footer {
   width: 100%;
   background: #ffff;
-  border-top: 2px solid #0bffae;
+  border-top: 6px solid #0bffae;
   display: flex;
   flex-direction: column;
   font-family: 'HKGrotesk-Regular', sans-serif;
@@ -9,16 +9,16 @@
 
 .footer__main {
   width: 100%;
-  margin: 60px auto 0px;
+  padding: 60px 0 0;
   @include breakpoint($breakpoint-tablet) {
-    margin: 40px;
+    padding: 100px 0 46px;
   }
 }
 
 .footer__sub {
   width: 100%;
   border-top: 1px solid #efefef;
-  padding: 28px 0;
+  padding: 29px 0;
   .footer__container {
     flex-direction: column-reverse;
     @include breakpoint($breakpoint-tablet) {
@@ -28,8 +28,8 @@
 }
 
 .footer__container {
-  max-width: calc(1200px+24px);
-  padding: 0 24px;
+  max-width: 1224px;
+  padding: 0 32px;
   margin: 0 auto;
   display: flex;
 
@@ -46,6 +46,7 @@
   flex-direction: column;
   padding-bottom: 40px;
   margin-bottom: 40px;
+  margin-right: 16px;
   border-bottom: 1px solid #efefef;
   @include breakpoint($breakpoint-tablet) {
     border-bottom: none;
@@ -55,7 +56,6 @@
   .footer_desc_cont {
     padding: 20px 0 0 10px;
     font-size: 16px;
-    letter-spacing: 0;
     line-height: 23px;
   }
   svg {
@@ -72,22 +72,43 @@
   margin-bottom: 40px;
   display: flex;
   flex-direction: column;
+  &:last-child {
+    margin-right: 0px;
+  }
   h3 {
     font-family: 'DIN Condensed';
     font-size: 21px;
     font-weight: bold;
-    text-transform: capitalize;
+    text-transform: uppercase;
     margin-bottom: 32px;
   }
   a {
     color: #000000;
     margin-bottom: 16px;
+    &:last-child {
+      margin-bottom: 0;
+    }
     font-size: 16px;
     letter-spacing: 0;
     line-height: 19px;
     text-decoration: none;
+    display: flex;
+    flex-direction: column;
+    width: fit-content;
+    &::after {
+      content: '';
+      display: block;
+      height: 1px;
+      background-color: #000000;
+      width: 100%;
+      transform: scale(0, 1);
+      transition: all 0.15s ease-in-out;
+    }
+
     &:hover {
-      text-decoration: underline;
+      &::after {
+        transform: scale(1, 1);
+      }
     }
   }
 }
